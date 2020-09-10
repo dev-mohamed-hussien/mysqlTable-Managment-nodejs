@@ -1,0 +1,16 @@
+{
+  "name": "db-manage",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node shcli.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "minimist": "^1.2.5",
+    "mysql": "^2.18.1",
+    "ora": "^5.1.0",
+    "signale": "^1.4.0",
+    "sudo-block": "^3.0.0"
+  }
+}
